@@ -1,0 +1,30 @@
+body{
+  margin: 0;  
+  background-color: #F9F5F0;
+}
+
+button{
+  border: none;
+  background: transparent;
+  padding: 0;
+}
+
+@font-face {
+  font-family: "Gilroy";
+  src: url("fonts/Gilroy-Light.ttf");
+}
+
+@font-face {
+  font-family: "Gilroy-Semibold";
+  src: url("fonts/Gilroy-Semibold.ttf");
+}
+
+@font-face {
+  font-family: "TTRamillas-Light";
+  src: url("fonts/TTRamillas-Light.otf");
+}
+
+@font-face {
+  font-family: "TTRamillas-ExtraLight";
+  src: url("fonts/TTRamillas-ExtraLight.otf");
+}
